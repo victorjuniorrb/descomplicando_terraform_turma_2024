@@ -16,12 +16,12 @@ resource "mgc_virtual-machine_instances" "basic_instance" {
 }
 
 resource "mgc_dbaas_instances" "basic_bd" {
-  engine_id = "mysql8"
-  flavor_id = "cloud-dbaas-bs1.small"
+  engine_id = "063f3994-b6c2-4c37-96c9-bab8d82d36f7"
+  flavor_id = "8bbe8e01-40c8-4d2b-80e8-189debc44b1c"
   name      = var.name
   password  = var.db_password
   user      = var.db_user
   volume = {
-    size = "100"
+    size = "10"
   }
 }

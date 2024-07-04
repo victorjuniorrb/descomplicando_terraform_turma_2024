@@ -2,17 +2,17 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/magalucloud/mgc" {
-  version = "0.18.10"
+  version = "0.19.3"
   hashes = [
-    "h1:W/LhN6IuB1ClTAMLmRupOEtWHNl7oZp+UJFLMmyQ4hs=",
-    "zh:0ba24f337e177ee258c62f1ebe6004351eed31dcd63bd38aee187b653d327838",
-    "zh:3c3fb50f3511b5667d2b6b9fa8d2f83ffc568e0d0523d5eafe6af7c0f61728a9",
-    "zh:64b28f176b4ff320d6e6cc95a9ac43fd758ad155789158ad456b59ebc6b085a8",
-    "zh:6a50e2a4ac2bc24cf8c300ad8b9c743f642b3f110ffe59181a9e1607e07fc37d",
-    "zh:761632b5df03693675248daafa30b342a86c71acfca326c09ae363cd33e4a435",
+    "h1:9pGg+0L9Hp2FWsBoYvoQo1DkuarPqTDe0AMmJIU0ozE=",
+    "zh:0b6c0ef775be58e3a0af9ac09fe0ac4d30058b4dea70d4f73f5ac974136ad441",
+    "zh:55d7b8cbf44d40750db8b089b32de8bbadb1b105d030951f2fadbf1a38a43011",
+    "zh:623a84ecbf0d1b9de0fb74e67517c8138d5bf26908dffaa4f1f35799b7444fa3",
+    "zh:6a3c43b762f515e7f9fa4dba7877b915cf567c3a0aa1713ab41cc1191e782392",
+    "zh:783f75634278b2e1988426d328dbe97a6dbe5406780c6381d0a337aa410e3762",
+    "zh:78fbd346c64b4ca0e8383e7b34f7e50d9b85e48de3800df361c368e83af7966e",
     "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
-    "zh:97168bfd748622f0c5b583bd04ae668ddcd312f55f1195597ff8f5e7b01fe998",
-    "zh:a42199bfaee2c222647bdf6062a02175a590152613979a6d732e860884ac9736",
-    "zh:efdd13c1b308364f3285e23bd88bd284b53ab101f220a548fb1c7e2bef13eff0",
+    "zh:e56d25cd5cc4f8b90427135f4e034a65f617cf25462976cbaeb624ffce4ba088",
+    "zh:fbe167ea34860384371d64554b9b8a882c4ab850f7a3eb44faf38bc5ab509d6a",
   ]
 }

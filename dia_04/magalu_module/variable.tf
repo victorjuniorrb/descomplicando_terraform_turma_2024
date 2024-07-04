@@ -12,7 +12,7 @@ variable "environment" {
 variable "ssh_key_name" {
   type        = string
   description = "Nome da chave SSH"
-  default     = "gomex"
+  default     = "victorjunior"
 }
 
 variable "machine_type" {
