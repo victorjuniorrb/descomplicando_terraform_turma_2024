@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "descomplicando-terraform-turma-2024"
+    bucket = "descomplicando-terraform-turma-2024-noturno"
     key    = "aula_modules_source"
     region = "us-east-1"
   }
