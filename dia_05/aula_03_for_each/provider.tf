@@ -14,10 +14,10 @@ terraform {
 
 # Configure the AWS Provider
 provider "aws" {
-  region = "us-east-2"
+  region = "us-east-1"
 }
 
 provider "aws" {
   alias  = "west"
-  region = "us-west-2"
+  region = "us-west-1"
 }
