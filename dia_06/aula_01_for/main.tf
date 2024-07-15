@@ -9,7 +9,7 @@ module "projetoa" {
     },
     bd = {
       instance_type = "t2.micro"
-      environment   = "dev"
+      environment   = "prod"
     }
   }
 }
